@@ -4,6 +4,11 @@ since: 2018-07-30
 change: 2019-04-05
 tags: signets, dh
 ---
+
+<svelte:head>
+  <title>Signets</title>
+</svelte:head>
+
 # Sélection de signets en humanités numériques
 
 ## Florilèges de projets
