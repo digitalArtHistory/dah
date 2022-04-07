@@ -8,7 +8,7 @@ Ce site a été réalisé dans le cadre du cours ART2102 de l’Université de M
 
 ## Participantes :
 - Yamina Bernard
-- [Arianne Diep
+- Arianne Diep
 - Florence Sabourin-Bordeleau
 - Eliane Degraff
 - [Emmanuel Château-Dutier](https://histart.umontreal.ca/repertoire-departement/professeurs/professeur/in/in22423/)
