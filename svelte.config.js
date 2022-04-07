@@ -16,12 +16,6 @@ const config = {
 	],
 
 	kit: {
-		adapter: adapter()
-	}
-};
-
-export default {config,
-kit: {
 		adapter: adapter({
 			// default options are shown
 			pages: 'build',
@@ -31,3 +25,5 @@ kit: {
 		})
 	}
 };
+
+export default config;
