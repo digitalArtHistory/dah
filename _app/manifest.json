@@ -1,10 +1,10 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-7231b212.js",
+    "file": "start-65d523af.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
-      "_index-3dd4b712.js"
+      "_index-ab878f55.js"
     ],
     "dynamicImports": [
       "src/routes/__layout.svelte",
@@ -18,81 +18,81 @@
     ]
   },
   "src/routes/__layout.svelte": {
-    "file": "pages/__layout.svelte-4c649b59.js",
+    "file": "pages/__layout.svelte-b2591b8f.js",
     "src": "src/routes/__layout.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-3dd4b712.js"
+      "_index-ab878f55.js"
     ],
     "css": [
       "assets/pages/__layout.svelte-0f14924d.css"
     ]
   },
   ".svelte-kit/runtime/components/error.svelte": {
-    "file": "error.svelte-0b4495c5.js",
+    "file": "error.svelte-6a3cee4b.js",
     "src": ".svelte-kit/runtime/components/error.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-3dd4b712.js"
+      "_index-ab878f55.js"
     ]
   },
   "src/routes/index.md": {
-    "file": "pages/index.md-834a1865.js",
+    "file": "pages/index.md-29542f85.js",
     "src": "src/routes/index.md",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-3dd4b712.js"
+      "_index-ab878f55.js"
     ]
   },
   "src/routes/bookmarks.md": {
-    "file": "pages/bookmarks.md-9524130b.js",
+    "file": "pages/bookmarks.md-d3848384.js",
     "src": "src/routes/bookmarks.md",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-3dd4b712.js"
+      "_index-ab878f55.js"
     ]
   },
   "src/routes/projects/index.svelte": {
-    "file": "pages/projects/index.svelte-33fa4ea8.js",
+    "file": "pages/projects/index.svelte-d4211eb8.js",
     "src": "src/routes/projects/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-3dd4b712.js"
+      "_index-ab878f55.js"
     ]
   },
   "src/routes/projects/projet1.md": {
-    "file": "pages/projects/projet1.md-7613783e.js",
+    "file": "pages/projects/projet1.md-28aa79d3.js",
     "src": "src/routes/projects/projet1.md",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-3dd4b712.js"
+      "_index-ab878f55.js"
     ]
   },
   "src/routes/projects/projet2.md": {
-    "file": "pages/projects/projet2.md-3eed33f1.js",
+    "file": "pages/projects/projet2.md-48a97968.js",
     "src": "src/routes/projects/projet2.md",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-3dd4b712.js"
+      "_index-ab878f55.js"
     ]
   },
   "src/routes/about.md": {
-    "file": "pages/about.md-a8a3217f.js",
+    "file": "pages/about.md-76cfeec4.js",
     "src": "src/routes/about.md",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-3dd4b712.js"
+      "_index-ab878f55.js"
     ]
   },
-  "_index-3dd4b712.js": {
-    "file": "chunks/index-3dd4b712.js"
+  "_index-ab878f55.js": {
+    "file": "chunks/index-ab878f55.js"
   }
 }
